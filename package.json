@@ -1,0 +1,22 @@
+{
+  "name": "express-typescript-generator",
+  "version": "1.0.2",
+  "description": "Express' application in Typescript generator",
+  "author": "Kien Bui <doankien.bui@gmail.com>",
+  "repository": "kienbd/express-ts-generator",
+  "license": "MIT",
+  "main": "bin/generator.js",
+  "bin": {
+    "express-typescript-generator": "bin/generator.js"
+  },
+  "dependencies": {
+    "commander": "5.1.0",
+    "fs-extra": "9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "7.1.0"
+  },
+  "scripts": {
+    "lint": "eslint bin"
+  }
+}
