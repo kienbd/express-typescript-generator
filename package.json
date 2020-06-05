@@ -1,6 +1,6 @@
 {
   "name": "express-typescript-generator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Typescript Express application generator",
   "author": "Kien Bui <doankien.bui@gmail.com>",
   "repository": "kienbd/express-ts-generator",
