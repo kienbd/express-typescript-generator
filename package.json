@@ -1,11 +1,22 @@
 {
   "name": "express-typescript-generator",
-  "version": "1.0.3",
-  "description": "Express' application in Typescript generator",
+  "version": "1.0.5",
+  "description": "Typescript Express application generator",
   "author": "Kien Bui <doankien.bui@gmail.com>",
   "repository": "kienbd/express-ts-generator",
   "license": "MIT",
   "main": "bin/generator.js",
+  "keywords": [
+    "express",
+    "typescript",
+    "ts",
+    "tsc",
+    "generator",
+    "api"
+  ],
+  "engines": {
+    "node": ">= 0.10"
+  },
   "bin": {
     "express-typescript-generator": "bin/generator.js"
   },
